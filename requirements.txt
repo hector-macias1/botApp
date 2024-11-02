@@ -1,0 +1,2 @@
+#fastAPI
+fastapi[standard]==0.115.4
